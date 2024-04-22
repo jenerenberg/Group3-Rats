@@ -9,7 +9,7 @@ Data Notes:
 - updated daily
 - contains data from: 2010 to present
 
-Rodent Inspections https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj/about_data
+Rodent Inspections: https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj/about_data
 - contains information on rat inspections
 - data provided by Department of Health and Mental Hygeine (DOHMH)
 - updated daily
