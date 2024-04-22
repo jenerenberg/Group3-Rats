@@ -1,7 +1,5 @@
 # Group3-Rats
-New York City Rodent Inspections
-
-Data Notes:
+New York City Rodent Inspections [DATA NOTES]
 
 311 Requests: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data
 - contains all 311 service requests
