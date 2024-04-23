@@ -1,7 +1,7 @@
 # Group 3 - Rats
 "The Rat King of NYC"
 
-Brief description [insert]
+New York City is infamous for its abundance of rodents and other varying pests roaming the streets. [Insert more heree] For the project, Group 3 asks the question: How do 311 rodent-related service requests vary between NYC boroughs? What months receive the most, and the least, rat service requests from the public? 
 
 execution explanation [insert]
 
