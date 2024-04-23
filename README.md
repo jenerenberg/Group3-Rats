@@ -1,4 +1,4 @@
-# Group3-Rats
+# Group 3 - Rats
 "The Rat King of NYC"
 
 Brief description [insert]
