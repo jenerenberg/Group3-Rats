@@ -9,3 +9,5 @@ New York City is infamous for its abundance of rodents and other varying pests r
 
 **DESCRIBE EACH DATASET**
 
+**GITSCRAPER EXPLANATION**
+
