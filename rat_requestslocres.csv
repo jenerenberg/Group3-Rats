@@ -1,13 +1,13 @@
 ,borough,is_residential,count_row
-0,BRONX,is residential,66292
-1,BRONX,not residential,15766
-2,BROOKLYN,is residential,108654
-3,BROOKLYN,not residential,42164
-4,MANHATTAN,is residential,71490
-5,MANHATTAN,not residential,33089
-6,QUEENS,is residential,53662
-7,QUEENS,not residential,20710
-8,STATEN ISLAND,is residential,14408
-9,STATEN ISLAND,not residential,5990
+0,BRONX,is residential,66304
+1,BRONX,not residential,15770
+2,BROOKLYN,is residential,108694
+3,BROOKLYN,not residential,42179
+4,MANHATTAN,is residential,71517
+5,MANHATTAN,not residential,33094
+6,QUEENS,is residential,53681
+7,QUEENS,not residential,20717
+8,STATEN ISLAND,is residential,14410
+9,STATEN ISLAND,not residential,5993
 10,Unspecified,is residential,14
 11,Unspecified,not residential,13
