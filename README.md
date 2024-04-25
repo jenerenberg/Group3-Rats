@@ -15,7 +15,7 @@
   - Convert 'created_date' to datetime variable
   - Pull the month out of 'created_date' to generate 'created_month' variable
   - Group the rat_requests dataframe by 'created_month' and sum the number of observations
-  - Map each month number to its text form so they show up in datawrapper chart (e.g., 1:'Jan')
+  - Map each month number to its text form so they show up in Datawrapper chart (e.g., 1:'Jan')
   - Reset index and assign to new dataframe
   - Export rat_requests_month_txt to .csv
 - Requests by season
@@ -33,4 +33,4 @@
 
 
 4. **GITSCRAPER EXPLANATION**
-
+- Our gitscraper runs our final_analysis.ipynb code every four hours. It downloads the updated rat request data from the NYC data portal, runs it through our code, and exports the .csv's to the main branch of our github repository. Then, Datawrapper accesses our .csv's and updates our three graphs.
