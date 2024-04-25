@@ -9,17 +9,22 @@
 - Requests by borough
   - Create row count variable
   - Group the rat_requests dataframe by 'borough' and sum the number of observations
+  - Reset index and assign to new dataframe
   - Export rat_requests_bor to .csv
-- Requests by Month
+- Requests by month
   - Convert 'created_date' to datetime variable
   - Pull the month out of 'created_date' to generate 'created_month' variable
   - Group the rat_requests dataframe by 'created_month' and sum the number of observations
   - Map each month number to its text form so they show up in datawrapper chart (e.g., 1:'Jan')
+  - Reset index and assign to new dataframe
   - Export rat_requests_month_txt to .csv
-- Requests by Season
-  - 
+- Requests by season
+  - Use conditional statements to create new 'season' variable that assigns 'summer' if 'created_month' = 6, 7, 8; 'fall' if 'created_month' = 9, 10, 11; and so on
+  - Group the rat_requests dataframe by 'season' and sum the number of observations
+  - Reset index and assign to new dataframe
+  - Export season_requests to .csv
 
-4. **DESCRIBE EACH DATASET**
+3. **DESCRIBE EACH DATASET**
 - 311 Rat Requests:
   -   Source: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data Office of Technology and Innovation (OTI)
   -   Updated: Daily
